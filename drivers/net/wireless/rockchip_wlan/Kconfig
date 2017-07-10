@@ -23,5 +23,6 @@ source "drivers/net/wireless/rockchip_wlan/rtl8189es/Kconfig"
 source "drivers/net/wireless/rockchip_wlan/rtl8189fs/Kconfig"
 source "drivers/net/wireless/rockchip_wlan/rtl8723cs/Kconfig"
 source "drivers/net/wireless/rockchip_wlan/rtl8822be/Kconfig"
+source "drivers/net/wireless/rockchip_wlan/rtl8812au-4.3.20/Kconfig"
 
 endif # WL_ROCKCHIP
